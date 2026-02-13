@@ -4,6 +4,7 @@ Simple Hello World script for testing.
 """
 
 def main():
+    """Print Hello World to stdout."""
     print("Hello World")
 
 if __name__ == "__main__":

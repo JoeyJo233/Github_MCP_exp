@@ -10,10 +10,14 @@ A simple "Hello World" Python script.
 
 **Usage:**
 ```bash
-python hello.py
+# Make the script executable (first time only)
+chmod +x hello.py
+
+# Run the script
+./hello.py
 ```
 
-or
+or using Python directly:
 
 ```bash
 python3 hello.py
