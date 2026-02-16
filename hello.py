@@ -5,7 +5,7 @@ Simple Hello World script for testing.
 
 def main():
     """Print Hello World to stdout."""
-    print("Hello Sweden")
+    print("Hello Lund, Hello Skane")
 
 if __name__ == "__main__":
     main()
