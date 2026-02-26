@@ -4,8 +4,8 @@ Simple Hello World script for testing.
 """
 
 def main():
-    """Print Hello World to stdout."""
-    print("Hello Sweden")
+    """Print Hello, Tolly to stdout."""
+    print("Hello, Tolly")
 
 if __name__ == "__main__":
     main()
