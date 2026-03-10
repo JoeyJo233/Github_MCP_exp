@@ -22,3 +22,17 @@ or using Python directly:
 ```bash
 python3 hello.py
 ``` 
+
+Run the calculator
+------------------
+
+Setup venv:
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+Run:
+
+./calc.py
+
+Type 'exit' or 'quit' to leave.
